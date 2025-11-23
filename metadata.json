@@ -1,0 +1,5 @@
+{
+  "name": "光的折射实验",
+  "description": "An interactive, sci-fi themed educational playground for 3rd graders to explore how light bends (refraction) through different materials. Features real-time physics simulation and an AI tutor.",
+  "requestFramePermissions": []
+}
